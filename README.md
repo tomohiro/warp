@@ -15,10 +15,11 @@ Installation
 
 Download to your executable path.
 
-    $ cd $HOME/bin
-    $ curl -LO https://raw.github.com/Tomohiro/warp/master/p
-    $ chmod +x ./warp
-
+```sh
+$ cd $HOME/bin
+$ curl -LO https://raw.githubusercontent.com/Tomohiro/warp/master/warp
+$ chmod +x ./warp
+```
 
 Usage
 --------------------------------------------------------------------------------
