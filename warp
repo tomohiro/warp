@@ -1,0 +1,3 @@
+#!/bin/sh
+
+ssh $(grep -Ei 'host .+' "$HOME/.ssh/config"  | cut -d ' ' -f 2 | peco)
